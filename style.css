@@ -1,0 +1,152 @@
+body{
+    background-color: rgb(213, 235, 173);
+    border: 10px solid rgb(190, 112, 167);
+}
+.hed{
+    background-color: rgb(247, 182, 217);
+   align-items: center;
+    
+}
+h1{
+    float: left;
+}
+.anchor{
+    float: right;
+    word-spacing: 30px;
+   
+}
+.empty{
+    clear: both;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.tat{
+    background-color: rgb(154, 226, 226);
+   
+}
+.ten{
+    margin-bottom: 31px;
+}
+.article{
+    border: 3px solid black;
+    width: 880px;
+    float: left; 
+    
+}
+.title2{
+    border: 3px solid black;
+    width: 431px;
+    float: right;
+    margin-top: 0px;
+}
+.foot{
+    width: 13 00px;
+    border: 3px solid black;
+    text-align: center;
+    clear: both;
+    font-weight: bold;
+    background-color: aliceblue;
+    color: rgb(255, 0, 0);
+    padding: 10px;
+    font-size: larger;
+}
+.tit{
+   
+    font-weight: bold;
+    align-items: center;
+    
+}
+.art{
+    margin-left: 3px;
+}
+.list{
+    margin-left: 20px;
+}
+.list1{
+    margin-left: 20px;
+}
+.list2 li{
+    
+    margin-left:20px;
+    padding: 20px;
+    margin-bottom: 28px;
+
+    
+}
+.tit2{
+    width: 450px;
+    float: right;
+}
+.tit3{
+    float: left;
+   
+}
+.pic{
+    float: left;
+}
+.rip{
+    margin-left: 10px;
+    
+}
+.rip1{
+    margin-left: 10px;
+   
+}
+.rip2{
+    width: 500px;
+    float: right;
+}
+.rip3{
+    float: left;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+    
+
+
+
+.tat1{
+    float: left;
+    width: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+.artic{
+    border: 3px solid black;
+    float: left;
+}
+.artic1{
+    border: 3px solid black;
+    width: 350px;
+    float: right;
+}
+.artic2 li{
+   margin-left: 25px;
+   padding-top: 50px;
+}
+.artic3{
+    width: 600px;
+}
+.artic4{
+    width: 250px;
+}
+.artic5{
+    margin: 9px;
+    padding: 10px;
+    border: 4px solid black;
+    background-color: rgb(248, 248, 161);
+}
+
+
